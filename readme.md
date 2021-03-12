@@ -8,3 +8,5 @@ wq para escrever (salvar) e sair (quit)
 Arquivo da aula do curso de Git e Github
 
 Modificações do arquivo, para teste do curso
+
+novos testes de modificação
