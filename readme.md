@@ -10,3 +10,5 @@ Arquivo da aula do curso de Git e Github
 Modificações do arquivo, para teste do curso
 
 novos testes de modificação
+
+Inserção de nova linha para uso do comando diff
