@@ -12,3 +12,5 @@ Modificações do arquivo, para teste do curso
 novos testes de modificação
 
 Inserção de nova linha para uso do comando diff
+
+Inserção de alterações para teste do push
